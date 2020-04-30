@@ -1,14 +1,15 @@
 {
-  "posts": [
+  "meli": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  },
-  "meli": {
-    "name": "typicode"
-  }
+  "meli2": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ]
+
 }
